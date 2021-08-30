@@ -4,7 +4,7 @@
 #include <linux/hid.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Ilya Skriblovsky");
+MODULE_AUTHOR("Ilya Skriblovsky <IlyaSkriblovsky@gmail.com>");
 MODULE_DESCRIPTION("Fixing additional buttons of Xiaomi Mi Silent Mouse");
 MODULE_VERSION("0.01");
 
